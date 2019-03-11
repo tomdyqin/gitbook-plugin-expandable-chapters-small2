@@ -1,0 +1,33 @@
+{
+    "author": {
+      "email": "cuoreqzt@126.com",
+      "name": "tomdy"
+    },
+    "bugs": {
+      "url": "https://github.com/tomdyqin/gitbook-plugin-expandable-chapters-small2/issues"
+    },
+    "dependencies": {},
+    "description": "Expandable chapters for convenient navigation within a gitbook",
+    "devDependencies": {},
+    "directories": {},
+    "engines": {
+      "gitbook": ">=2.5.0"
+    },
+    "homepage": "https://github.com/tomdyqin/gitbook-plugin-expandable-chapters-small2",
+    "license": "Apache-2.0",
+    "main": "index.js",
+    "maintainers": [
+      {
+        "email": "cuoreqzt@126.com",
+        "name": "tomdy"
+      }
+    ],
+    "name": "gitbook-plugin-expandable-chapters-small2",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tomdyqin/gitbook-plugin-expandable-chapters-small2.git"
+    },
+    "scripts": {},
+    "version": "0.0.1"
+  }
+  
